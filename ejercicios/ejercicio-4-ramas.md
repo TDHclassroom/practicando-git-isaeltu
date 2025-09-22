@@ -41,7 +41,7 @@ Aprender a crear y trabajar con ramas en Git para desarrollar características d
 6. Añade y haz commit del nuevo archivo:
    ```bash
    git add features.txt
-   git commit -m "Añadir lista inicial de características"
+   git commit 
    ```
 
 7. Regresa a la rama main:
