@@ -1,0 +1,6 @@
+
+  \n Lista de características:
+  \n 1. Sistema de usuarios
+  \n 2. Dashboard principal
+  n\ 3. Reportes básicos
+  
